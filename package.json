@@ -1,0 +1,26 @@
+{
+  "name": "cordova-plugin-traceroute",
+  "version": "1.0.0",
+  "description": "Cordova Traceroute Plugin",
+  "cordova": {
+    "id": "cordova-plugin-traceroute",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navidmalekan/cordova-plugin-traceroute.git"
+  },
+  "bugs": {
+    "url": "https://github.com/navidmalekan/cordova-plugin-traceroute/issues"
+  },
+  "keywords": [
+    "cordova",
+    "traceroute",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Navid Mlk",
+  "license": "MIT"
+}

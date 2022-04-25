@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-traceroute",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Cordova Traceroute Plugin",
   "cordova": {
     "id": "cordova-plugin-traceroute",

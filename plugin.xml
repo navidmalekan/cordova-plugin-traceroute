@@ -2,7 +2,7 @@
   <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="cordova-plugin-traceroute"
-    version="1.0.0">
+    version="1.0.1">
     <name>Traceroute</name>
     <description>Cordova Traceroute Plugin</description>
     <license>MIT</license>
@@ -17,9 +17,9 @@
     <platform name="android">
       <config-file target="res/xml/config.xml" parent="/*">
         <feature name="Traceroute">
-          <param name="android-package" value="org.ppa.cordova.traceroute.Traceroute"/>
+          <param name="android-package" value="com.adnofer.cordova.traceroute.Traceroute"/>
         </feature>
       </config-file>
-      <source-file src="src/android/Traceroute.java" target-dir="src/org/ppa/cordova/traceroute"/>
+      <source-file src="src/android/Traceroute.java" target-dir="src/com/adnofer/cordova/traceroute"/>
     </platform>
   </plugin>
